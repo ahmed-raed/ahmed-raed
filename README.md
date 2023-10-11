@@ -26,7 +26,9 @@
 </div>
 
 ##
+
 <h1 align="center">Welcome To My GitHub Profile</h1>
+
 ##
 
 <h3 align="left">👩‍💻  About Me</h3>
