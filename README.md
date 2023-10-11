@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I am Ahmed Raed...<br><br>- 🔭 I work as a Front-End Developer<br>- 💻 A passionate developer<br>- 💖 In love with Computer</p>
+<p align="left">I am Ahmed Raed...<br><br>- 🔭 I work as a Front-end developer<br>- 💻 A passionate developer<br>- 💖 In love with Computer</p>
 
 ###
 
@@ -53,6 +53,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" height="40" alt="bootstrap logo"  />
 </div>
