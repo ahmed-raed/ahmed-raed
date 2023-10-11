@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I am Ahmed Raed...<br><br>- 🔭 I work as a Front-end developer<br>- 💻 A passionate developer<br>- 💖 In love with Computer</p>
+<p align="left">I am Ahmed Raed...<br><br>- 🔭 I work as a Front-end developer<br>- 💻 A passionate developer<br>- 💖 In love with computer</p>
 
 ###
 
