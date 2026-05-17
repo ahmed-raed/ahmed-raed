@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I am Ahmed Al-Mawla...<br><br>- 🔭 I work as a Front-end developer<br>- 💻 A passionate AI developer<br>- 💖 In love with computer</p>
+<p align="left">I am Ahmed Al-Mawla...<br><br>- 🔭 I work as a Full Stack developer<br>- 💻 A passionate AI developer<br>- 💖 In love with computer</p>
 
 ###
 
